@@ -5,3 +5,6 @@ commands:
    Sit:
       description: Makes you sit on the floor.
       usage: /Sit
+   Look:
+      description: Inspects a players inventory.
+      usage: /Look [Player]
