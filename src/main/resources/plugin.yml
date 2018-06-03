@@ -1,0 +1,7 @@
+name: ExtraCommands
+version: 1.0
+main: AT.MSev.ExtraCommands.ExtraCommands
+commands:
+   Sit:
+      description: Makes you sit on the floor.
+      usage: /Sit
